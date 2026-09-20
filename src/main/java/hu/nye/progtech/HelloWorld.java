@@ -16,9 +16,7 @@ public class HelloWorld {
             "hun", "Szia",
             "eng", "Hello",
             "spa", "Hola",
-            "tur", "Selam",
-            "ita", "Ciao"
-
+            "tur", "Selam"
     );
 
     public static void main(String[] args) {
